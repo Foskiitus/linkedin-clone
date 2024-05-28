@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project utilizes the following technologies: nextjs, MongoDB, TypeScript and uses microsoft azure services for hosting the MongoDB and images in container Blob's
 
+It gets timeout in vercel free hosting
+
 ## Getting Started
 
 First, run the development server:
